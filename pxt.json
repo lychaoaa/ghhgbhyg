@@ -1,5 +1,6 @@
 {
     "name": "告诉我一个秘密",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
